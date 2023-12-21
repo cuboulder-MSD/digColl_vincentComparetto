@@ -145,8 +145,11 @@ Rights statement comes from [rightsstatements.org](https://rightsstatements.org/
 
 ## Resources
 [Queen City Sounds and Art: Born Dumb](https://queencitysoundsandart.wordpress.com/tag/born-dumb/)
+
 [Westword: This Secret Space's Last Event Was Almost Called F*uck New Denver](https://www.westword.com/music/denver-diy-venue-backspace-hosts-dirty-denver-festival-9283661)
+
 [Twelve Defunct DIY Spaces That Shaped Colorado's Underground Music Scene](https://www.westword.com/music/twelve-defunct-diy-spaces-that-shaped-colorados-underground-music-scene-8788609)
+
 [Wheelchair Sports Camp Embraces Its Outsider Status On ‘No Big Deal’](https://www.cpr.org/podcast-episode/wheelchair-sports-camp-embraces-its-outsider-status-on-no-big-deal/)
 
 ## Notes
