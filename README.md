@@ -1,4 +1,13 @@
 # Vincent Comparetto Collection
+## Description
+This collection by artist Vincent Comparetto includes digital prints that document and celebrate DIY spaces and the music subculture of Denver, Colorado. Comparetto is an artist from Denver, Colorado living in New York City, and works as a motion graphic designer, editor, painter, director, and a photographer.
+
+In the process of cataloging the materials in this collection some of the content may contain harmful depictions and language. As a result, some descriptive language may be insensitive, represent positions, language, values, and stereotypes that are not consistent with the current values at CU Boulder Libraries. Please see our [Statement on Potentially Harmful Language in Archival Description](https://www.colorado.edu/libraries/libraries-collections/rare-distinctive/archives/statement-potentially-harmful-language) for more information.
+
+Permanent address to digital collection: [https://doi.org/10.25810/1X1R-8Y31](https://doi.org/10.25810/1X1R-8Y31).<br /> 
+Please use the same link when sharing or citing the collection.
+
+
 ## Metadata
 ### Collection Name
 Name of the collection: Vincent Comparetto Collection
@@ -135,10 +144,10 @@ Statement in collection: This Item is protected by copyright and/or related righ
 Rights statement comes from [rightsstatements.org](https://rightsstatements.org/page/1.0/?language=en)
 
 ## Resources
-https://queencitysoundsandart.wordpress.com/tag/born-dumb/
-https://www.westword.com/music/denver-diy-venue-backspace-hosts-dirty-denver-festival-9283661
-https://www.westword.com/music/twelve-defunct-diy-spaces-that-shaped-colorados-underground-music-scene-8788609
-https://www.cpr.org/podcast-episode/wheelchair-sports-camp-embraces-its-outsider-status-on-no-big-deal/
+[Queen City Sounds and Art: Born Dumb](https://queencitysoundsandart.wordpress.com/tag/born-dumb/)
+[Westword: This Secret Space's Last Event Was Almost Called F*uck New Denver](https://www.westword.com/music/denver-diy-venue-backspace-hosts-dirty-denver-festival-9283661)
+[Twelve Defunct DIY Spaces That Shaped Colorado's Underground Music Scene](https://www.westword.com/music/twelve-defunct-diy-spaces-that-shaped-colorados-underground-music-scene-8788609)
+[Wheelchair Sports Camp Embraces Its Outsider Status On ‘No Big Deal’](https://www.cpr.org/podcast-episode/wheelchair-sports-camp-embraces-its-outsider-status-on-no-big-deal/)
 
 ## Notes
 Please note that the metadata contained in this repository may not be the most up to date, but is updated on a continuing basis.
