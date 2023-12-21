@@ -38,12 +38,12 @@ Date ranges include: 2021
 ### Date Created
 The date of creation of the resource. 
 
-Date ranges include: 
+Date ranges include: 1996/2019
 
 ### Date Digitized
 The date on which the resource was digitized or a subsequent snapshot was taken. 
 
-Dates include: 1996/2019
+Dates include: Unknown
 
 ### Edition
 A particular form or version of a published text.
@@ -96,6 +96,10 @@ A title used as a subject.
 
 Terms used: Big Queer Dance Party ; Titwrench Festival
 
+### Subject Genre
+A genre or form used as part of a subject string when the subject authority distinguishes parts of the subject string (e.g. LCSH).
+
+Terms used: [Portraits](http://id.worldcat.org/fast/1423831)
 
 ### Identifier
 Contains a unique standard number or code that distinctively identifies a resource. Typically the file name. 
