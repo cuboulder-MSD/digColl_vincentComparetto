@@ -4,7 +4,7 @@ This collection by artist Vincent Comparetto includes digital prints that docume
 
 In the process of cataloging the materials in this collection some of the content may contain harmful depictions and language. As a result, some descriptive language may be insensitive, represent positions, language, values, and stereotypes that are not consistent with the current values at CU Boulder Libraries. Please see our [Statement on Potentially Harmful Language in Archival Description](https://www.colorado.edu/libraries/libraries-collections/rare-distinctive/archives/statement-potentially-harmful-language) for more information.
 
-Permanent address to digital collection: [https://doi.org/10.25810/1X1R-8Y31](https://doi.org/10.25810/1X1R-8Y31).<br /> 
+Permanent address to digital collection: [https://doi.org/10.60807/qvn1-wa41](https://doi.org/10.60807/qvn1-wa41).<br /> 
 Please use the same link when sharing or citing the collection.
 
 
