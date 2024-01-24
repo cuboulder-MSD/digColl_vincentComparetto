@@ -139,7 +139,7 @@ DIY Spaces and subculture, Denver, Colorado: Photography and words
 ### Access Condition
 Information about restrictions imposed on access to a resource.
 
-This Item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. In addition, no permission is required from the rights-holder(s) for educational uses. For other uses, you need to obtain permission from the rights-holder(s). [[http://rightsstatements.org/vocab/InC-NC/1.0/]([http://rightsstatements.org/vocab/InC-EDU/1.0/)]
+This Item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. In addition, no permission is required from the rights-holder(s) for educational uses. For other uses, you need to obtain permission from the rights-holder(s).[http://rightsstatements.org/vocab/InC-NC/1.0/]([http://rightsstatements.org/vocab/InC-EDU/1.0/)
 
 Rights statement comes from [rightsstatements.org](https://rightsstatements.org/page/1.0/?language=en)
 
